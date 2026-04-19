@@ -1,7 +1,7 @@
 # Bike-Store-SQL-Analytics
 # 🚲 Bike Store SQL Analytics Project
 
-## 🌟 Project Summary
+##  Project Summary
 
 This project is a **complete data analysis case study** built using the Bike Store dataset, designed to simulate a real-world retail analytics environment.
 
@@ -67,7 +67,7 @@ E --> F[Generate Business Insights]
 
 ---
 
-## 🔍 Analysis Breakdown
+##  Analysis Breakdown
 
 ###  1. Data Preparation
 
@@ -99,7 +99,7 @@ E --> F[Generate Business Insights]
 
 ---
 
-### 🔴 5. Sales Analysis
+###  5. Sales Analysis
 
 Revenue calculated using:
 
