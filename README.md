@@ -190,12 +190,7 @@ The project includes multiple visual insights:
 
 ---
 
-## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐
-It helps showcase the project to others!
-
----
 
 ## Author
 
