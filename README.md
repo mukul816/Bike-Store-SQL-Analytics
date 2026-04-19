@@ -161,6 +161,7 @@ The project includes multiple visual insights:
  ┣ 📜 Bike_Store_SQL_Analysis.ipynb
  ┣ 📜 README.md
  ┗ 📂 Dataset Source:-https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database
+    Dataset can be also seen through: https://github.com/mukul816/Bike-Store-SQL-Analytics/tree/main/Datasets
 ```
 
 ---
