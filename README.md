@@ -1,5 +1,5 @@
 # Bike-Store-SQL-Analytics
-# 🚲 Bike Store SQL Analytics Project
+#  Bike Store SQL Analytics Project
 
 ##  Project Summary
 
@@ -195,4 +195,4 @@ The project includes multiple visual insights:
 
 ## Author
 
-Mukul Girdhar
+Mukul 
