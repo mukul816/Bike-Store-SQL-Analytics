@@ -27,9 +27,13 @@ This project answers these questions using **data-driven analysis**.
 ##  Key Skills Demonstrated
 
 ✔ SQL (Joins, Aggregations, Group By, Subqueries)
+
 ✔ Data Analysis using Python (pandas)
+
 ✔ Relational Database Handling (SQLite)
+
 ✔ Business Insight Generation
+
 ✔ Data Visualization (Matplotlib & Seaborn)
 
 ---
@@ -166,14 +170,7 @@ The project includes multiple visual insights:
 
 ---
 
-##  How to Run
 
-1. Download dataset from Kaggle
-2. Open Jupyter Notebook
-3. Update dataset path if required
-4. Run all cells sequentially
-
----
 
 ##  Future Enhancements
 
